@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muhammadislom14
+- 👋 Hi, I’m Muhammadislom!
 - 👀 I’m interested in creating web-sites and telegram bots on python
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
